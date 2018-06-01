@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuSkin360VR", "Assembly-CSharp.csproj", "{D2FF02F2-784B-C711-61C0-57C1BF82E6B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuSkin360VR", "Assembly-CSharp-Editor.csproj", "{5DBB5848-E532-945A-08D0-989C279AC46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FF02F2-784B-C711-61C0-57C1BF82E6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FF02F2-784B-C711-61C0-57C1BF82E6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FF02F2-784B-C711-61C0-57C1BF82E6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FF02F2-784B-C711-61C0-57C1BF82E6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBB5848-E532-945A-08D0-989C279AC46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBB5848-E532-945A-08D0-989C279AC46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBB5848-E532-945A-08D0-989C279AC46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBB5848-E532-945A-08D0-989C279AC46C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
